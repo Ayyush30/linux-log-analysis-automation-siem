@@ -1,4 +1,4 @@
-# Linux Log Analysis & Brute-Force Detection (SOC Simulation)
+# Linux Log Analysis, Automation, and SIEM Visualization
 
 ## 📌 Project Overview:
 
@@ -12,7 +12,7 @@ This project simulates a real-world Security Operations Center (SOC) workflow by
 
 - SIEM-based investigation and visualization using Splunk Enterprise
 
-The dataset used for this project was obtained from LogHub.
+The dataset used for this project was obtained from Linux authentication logs (LogHub).
 
 ## 🔍 Project Breakdown:
 
